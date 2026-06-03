@@ -6,6 +6,12 @@
 
 Create and customize your own virtual AI influencer completely for free using open-source technologies.
 
+## Related Projects
+
+- [Free-AI-Social-Media-Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) — Schedule your AI influencer content across all social platforms automatically
+- [Open-AI-UGC](https://github.com/Anil-matcha/Open-AI-UGC) — Generate AI UGC video ads with realistic AI actors
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Free open-source studio for 200+ AI image & video models
+
 ## Tutorial
 
 Read the full guide: [AI Influencer Automation to Earn $10K/Month](https://medium.com/@anilmatcha/ai-influencer-automation-to-earn-10k-month-for-free-b8936212bcb9)
